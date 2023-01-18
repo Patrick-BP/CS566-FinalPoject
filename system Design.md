@@ -3,17 +3,21 @@
 # Project: Movie and Tv-shows streaming service
 
 ## FrontEnd Layout
+
 * Homepage
 
 ![This is an image](https://github.com/Patrick-BP/CS566-FinalPoject/blob/main/img/homepage.png)
 
 * Admin
+ 
 ![This is an image](https://github.com/Patrick-BP/CS566-FinalPoject/blob/main/img/admin.png)
 
 * Movie Details
+
 ![This is an image](https://github.com/Patrick-BP/CS566-FinalPoject/blob/main/img/movieDetails.png)
 
-* Tv-Show Details 
+* Tv-Show Details
+ 
 ![This is an image](https://github.com/Patrick-BP/CS566-FinalPoject/blob/main/img/tvshowDetails.png)
 
 ## BackEnd 
